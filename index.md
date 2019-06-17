@@ -1,6 +1,6 @@
-### [Repository](https://github.com/buildingdragons/dragon) | Blog
-
 ## Building Dragons. Together.
+
+### [Repository](https://github.com/buildingdragons/dragon) | Blog
 
 In May 2019, I decided to create a JavaFX application written entirely
 in Scala. Being new to Scala and not very proficient in JavaFX, I knew
