@@ -1,7 +1,8 @@
 {% assign firstPost = site.posts.first %}
 
-## Blog 1
+## Blog.
 
 ### abc {{ firstPost.title }}
+{{ firstPost.excerpt }}
 
 2
