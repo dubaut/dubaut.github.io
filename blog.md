@@ -3,6 +3,6 @@
 ## Blog.
 
 ### {{ firstPost.title }}
-[{{ firstPost.excerpt }}]
+<p>{{ firstPost.excerpt }}</p>
 
-4
+5
