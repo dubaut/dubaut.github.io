@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 author: hannes
 ---
 In May 2019, I decided to create a JavaFX application written entirely
