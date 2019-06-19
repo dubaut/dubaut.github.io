@@ -1,8 +1,4 @@
----
-layout: default
-title: BlogTest
----
-####Latest Posts (.md)
+#### Latest Posts (.md)
 
 <ul>
     {% for post in site.posts %}
