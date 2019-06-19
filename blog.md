@@ -1,4 +1,12 @@
+{% assign firstPost = site.posts.first %}
+
 ## Blog
+
+
+
+{% for post in site.posts %}
+### {% firstPost.title %}
+{% endfor %}
 
 <ul>
     {% for post in site.posts %}
@@ -8,3 +16,5 @@
     </li>
     {% endfor %}
 </ul>
+
+1
