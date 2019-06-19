@@ -1,6 +1,4 @@
-{% assign firstPost = site.posts.first %}
-
-## Blog
+## Blog 1
 
 ### abc {% firstPost.title %}
 
