@@ -1,7 +1,4 @@
----
-title: Home
----
-#### Latest Posts (.md)
+## Blog
 
 <ul>
     {% for post in site.posts %}
