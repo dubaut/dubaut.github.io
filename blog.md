@@ -2,7 +2,7 @@
 layout: default
 title: BlogTest
 ---
-<h1>Latest Posts (.md)</h1>
+####Latest Posts (.md)
 
 <ul>
     {% for post in site.posts %}
