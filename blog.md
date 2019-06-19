@@ -1,3 +1,6 @@
+---
+title: Das ist ein Titel
+---
 #### Latest Posts (.md)
 
 <ul>
