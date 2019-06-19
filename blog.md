@@ -3,6 +3,6 @@
 ## Blog.
 
 ### {{ firstPost.title }}
-<p>{{ firstPost.excerpt }}</p>
+<p><a href="{{ firstPost.url }}">{{ firstPost.excerpt }}</a></p>
 
-5
+6
