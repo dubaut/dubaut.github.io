@@ -1,5 +1,5 @@
 ---
-title: Das ist ein Titel
+title: Home
 ---
 #### Latest Posts (.md)
 
