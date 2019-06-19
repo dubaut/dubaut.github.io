@@ -1,6 +1,6 @@
 ---
-layout: post2
-author: hannes
+layout: post
+author: [Hannes](mailto:hannes@buildingdragons.dev)
 ---
 In May 2019, I decided to create a JavaFX application written entirely
 in Scala. Being new to Scala and not very proficient in JavaFX, I knew
