@@ -2,7 +2,7 @@
 
 ## Blog.
 
-### abc {{ firstPost.title }}
-{{ firstPost.excerpt }}
+### {{ firstPost.title }}
+[{{ firstPost.excerpt }}]({{ firstPost.url }})
 
-2
+3
