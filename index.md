@@ -1,4 +1,4 @@
-\| {% for page in site.data.main_nav.pages %}[{{ page.title }}]({{ page.url }}) \| {% endfor %}
+\| {% for page in site.data.main_nav.pages %}[{{ page.title }}](/{{ page.url }}) \| {% endfor %}
 
 ## Building Dragons. Together.
 
@@ -13,4 +13,4 @@ everyone interested can follow my endeavor.
 If there is anything you want to know and not addressed here, feel free to
 open an issue, and I do my best to come back to you as soon as possible.
 
-*v0.18*
+*v0.19*
