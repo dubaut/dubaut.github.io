@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: default
 ---
 {% assign firstPost = site.posts.first %}
 
