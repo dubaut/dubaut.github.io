@@ -5,7 +5,7 @@ layout: default
 
 {% assign firstPost = site.posts.first %}
 
-## Blog.
+## The Blog.
 
 ### {{ firstPost.title }}
 <p><a href="{{ firstPost.url }}">{{ firstPost.excerpt }}</a></p>
