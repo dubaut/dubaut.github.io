@@ -1,3 +1,7 @@
+{% for item in site.navigationlist.docs %}
+{{ item.title }} |
+{% endfor %}
+
 ## Building Dragons. Together.
 
 In May 2019, I decided to create a JavaFX application written entirely

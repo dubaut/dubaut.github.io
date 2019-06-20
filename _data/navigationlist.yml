@@ -1,0 +1,5 @@
+pages:
+  - title: Home
+    url: index.html
+  - title: Blog
+    blog.html
