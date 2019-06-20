@@ -1,8 +1,6 @@
-<ul>
-   {% for page in site.data.main_nav.pages %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+| {% for page in site.data.main_nav.pages %}
+      <a href="{{ page.url }}">{{ page.title }}</a> |
    {% endfor %}
-</ul>
 
 ## Building Dragons. Together.
 
@@ -19,4 +17,4 @@ open an issue, and I do my best to come back to you as soon as possible.
 
 ### [Repository](https://github.com/buildingdragons/dragon) | [Blog](blog.html)
 
-*v0.2*
+*v0.3*
