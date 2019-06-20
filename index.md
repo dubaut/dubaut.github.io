@@ -1,6 +1,9 @@
-*test1* {% for item in site.navigationlist.pages %}
-{{ item.title }} |
-{% endfor %}
+<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+<ul>
+   {% for item in site.data.samplelist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
 
 ## Building Dragons. Together.
 
@@ -16,3 +19,5 @@ If there is anything you want to know and not addressed here, feel free to
 open an issue, and I do my best to come back to you as soon as possible.
 
 ### [Repository](https://github.com/buildingdragons/dragon) | [Blog](blog.html)
+
+*v0.1*
