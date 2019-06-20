@@ -2,6 +2,8 @@
 
 ## Blog.
 
+[Home](index.html)
+
 ### {{ firstPost.title }}
 <p><a href="{{ firstPost.url }}">{{ firstPost.excerpt }}</a></p>
 
