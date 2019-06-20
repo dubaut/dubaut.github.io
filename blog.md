@@ -5,8 +5,6 @@ layout: default
 
 {% assign firstPost = site.posts.first %}
 
-[Home](index.html)
-
 ## Blog.
 
 ### {{ firstPost.title }}
