@@ -1,4 +1,4 @@
-{% for item in site.navigationlist.docs %}
+*test* {% for item in site.navigationlist.docs %}
 {{ item.title }} |
 {% endfor %}
 
